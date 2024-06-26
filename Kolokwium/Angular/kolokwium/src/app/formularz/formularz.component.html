@@ -8,16 +8,17 @@
           [(ngModel)]="object.model"
           required />
   </div>
-  <div>
-      <label for="rodzaj">Rodzaj</label>
-      <input
-          type="number"
-          id="rodzaj"
-          name="rodzaj"
-          [(ngModel)]="object.rodzaj"
-          required />
-  </div>
-
+  <label for="rodzaj">Rodzaj</label>
+  <select
+      id="rodzaj"
+      name="rodzaj"
+      [(ngModel)]="object.rodzaj">
+      <option [ngValue]="0">Membranowa</option>
+      <option [ngValue]="1">Nozycowa</option>
+      <option [ngValue]="2">Mechaniczna</option>
+      <option [ngValue]="3">Optyczna</option>
+      <option [ngValue]="4">Hybrydowa</option>
+  </select>
   <input
       type="submit"
       name="submit"

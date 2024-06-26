@@ -1,6 +1,7 @@
 import { Component, EventEmitter, Output, inject } from '@angular/core';
 import { KlawiaturaRequestDTO } from '../models/klawiaturaRequest.interface';
 import { KlawiaturaService } from '../klawiatura.service';
+import { Rodzaj } from '../models/rodzaj.interface';
 
 @Component({
   selector: 'app-formularz',

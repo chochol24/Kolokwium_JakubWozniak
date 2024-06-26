@@ -28,8 +28,12 @@ export class KlawiaturyComponent {
 
   public onChoosedRow(event: KlawiaturaResponseDTO): void {
     this.choosedKeyboard = event;
-    this.keyboardService.delete(event.id);
-    this.getData();
+    this.keyboardService.delete(event.id).subscribe({
+      next: () => {
+        this.getData();
+      }
+    });
+
   }
 
   public onPaginationSubmit(): void {
@@ -42,7 +46,6 @@ export class KlawiaturyComponent {
 
   public onSubmit(){
     this.onDataStyleChange();
-    this.getData();
   }
 
 }

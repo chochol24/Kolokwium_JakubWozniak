@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kolokwium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4f216e09feb5a7a178583a9071d32dcf74931cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33dbec17072a0021547514aee013037bbdbe32f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kolokwium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kolokwium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -37,5 +37,3 @@ D:\JWKolos\Kolokwium_JakubWozniak\Kolokwium\bin\Debug\net6.0\Angular\kolokwium\p
 D:\JWKolos\Kolokwium_JakubWozniak\Kolokwium\bin\Debug\net6.0\Angular\kolokwium\tsconfig.app.json
 D:\JWKolos\Kolokwium_JakubWozniak\Kolokwium\bin\Debug\net6.0\Angular\kolokwium\tsconfig.json
 D:\JWKolos\Kolokwium_JakubWozniak\Kolokwium\bin\Debug\net6.0\Angular\kolokwium\tsconfig.spec.json
-D:\JWKolos\Kolokwium_JakubWozniak\Kolokwium\bin\Debug\net6.0\Angular\package-lock.json
-D:\JWKolos\Kolokwium_JakubWozniak\Kolokwium\bin\Debug\net6.0\Angular\package.json

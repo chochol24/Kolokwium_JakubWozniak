@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\dtos\\klawiaturaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:dtos\\klawiaturaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\bll\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:bll\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\dtos\\klawiaturarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:dtos\\klawiaturarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\bll\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:bll\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\kolokwium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -19,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:models\\klawiatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\bll\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:bll\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\dtos\\klawiaturaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:dtos\\klawiaturaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\dtos\\klawiaturarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:dtos\\klawiaturarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\controllers\\klawiaturycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:controllers\\klawiaturycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\bll\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:bll\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,12 +66,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:48:56.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T09:48:56.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "KlawiaturyController.cs",
               "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\Controllers\\KlawiaturyController.cs",
               "RelativeDocumentMoniker": "Controllers\\KlawiaturyController.cs",
@@ -79,38 +78,37 @@
               "RelativeToolTip": "Controllers\\KlawiaturyController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:47:19.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T09:47:19.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Service.cs",
               "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\BLL\\Service.cs",
               "RelativeDocumentMoniker": "BLL\\Service.cs",
               "ToolTip": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\BLL\\Service.cs",
               "RelativeToolTip": "BLL\\Service.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA1wCwAAAAjAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T09:37:49.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "IService.cs",
               "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\BLL\\IService.cs",
               "RelativeDocumentMoniker": "BLL\\IService.cs",
               "ToolTip": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\BLL\\IService.cs",
               "RelativeToolTip": "BLL\\IService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T09:37:39.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "KlawiaturaRequestDTO.cs",
               "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\DTOs\\KlawiaturaRequestDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\KlawiaturaRequestDTO.cs",
@@ -118,12 +116,11 @@
               "RelativeToolTip": "DTOs\\KlawiaturaRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:36:27.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T09:36:27.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "KlawiaturaResponseDTO.cs",
               "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\DTOs\\KlawiaturaResponseDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\KlawiaturaResponseDTO.cs",
@@ -150,7 +147,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Kolokwium",
+              "Title": "Kolokwium.csproj",
               "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\Kolokwium.csproj",
               "RelativeDocumentMoniker": "Kolokwium.csproj",
               "ToolTip": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\Kolokwium.csproj",
