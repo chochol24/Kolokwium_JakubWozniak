@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\dtos\\klawiaturaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:dtos\\klawiaturaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\dtos\\klawiaturarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:dtos\\klawiaturarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\kolokwium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:kolokwium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\models\\klawiatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:models\\klawiatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\bll\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:bll\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\controllers\\klawiaturycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:controllers\\klawiaturycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\bll\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:bll\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|d:\\jwkolos\\kolokwium_jakubwozniak\\kolokwium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D19E4E-5026-458E-B9E6-D1E98A41528D}|Kolokwium.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:48:56.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KlawiaturyController.cs",
+              "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\Controllers\\KlawiaturyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KlawiaturyController.cs",
+              "ToolTip": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\Controllers\\KlawiaturyController.cs",
+              "RelativeToolTip": "Controllers\\KlawiaturyController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:47:19.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\BLL\\Service.cs",
+              "RelativeDocumentMoniker": "BLL\\Service.cs",
+              "ToolTip": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\BLL\\Service.cs",
+              "RelativeToolTip": "BLL\\Service.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wCwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:37:49.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\BLL\\IService.cs",
+              "RelativeDocumentMoniker": "BLL\\IService.cs",
+              "ToolTip": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\BLL\\IService.cs",
+              "RelativeToolTip": "BLL\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:37:39.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KlawiaturaRequestDTO.cs",
+              "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\DTOs\\KlawiaturaRequestDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\KlawiaturaRequestDTO.cs",
+              "ToolTip": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\DTOs\\KlawiaturaRequestDTO.cs",
+              "RelativeToolTip": "DTOs\\KlawiaturaRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:36:27.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KlawiaturaResponseDTO.cs",
+              "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\DTOs\\KlawiaturaResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\KlawiaturaResponseDTO.cs",
+              "ToolTip": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\DTOs\\KlawiaturaResponseDTO.cs",
+              "RelativeToolTip": "DTOs\\KlawiaturaResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:36:12.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Klawiatura.cs",
+              "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\Models\\Klawiatura.cs",
+              "RelativeDocumentMoniker": "Models\\Klawiatura.cs",
+              "ToolTip": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\Models\\Klawiatura.cs",
+              "RelativeToolTip": "Models\\Klawiatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:31:45.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kolokwium",
+              "DocumentMoniker": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\Kolokwium.csproj",
+              "RelativeDocumentMoniker": "Kolokwium.csproj",
+              "ToolTip": "D:\\JWKolos\\Kolokwium_JakubWozniak\\Kolokwium\\Kolokwium.csproj",
+              "RelativeToolTip": "Kolokwium.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T09:31:18.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

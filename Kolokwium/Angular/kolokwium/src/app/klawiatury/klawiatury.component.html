@@ -1,0 +1,35 @@
+
+
+<table *ngIf="isTableView" border="1">
+  <thead>
+      <tr>
+          <th>id</th>
+          <th>model</th>
+          <th>rodzaj</th>
+          <th>usun</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr
+          *ngFor="let s of data"
+          [app-klawiatura-row]="s"
+          (choosed)="onChoosedRow($event)">
+      </tr>
+  </tbody>
+</table>
+
+<button (click)="onDataStyleChange()">
+  {{isTableView ? 'Dodaj klawiature' : 'Anuluj dodanie klawiatury'}}
+</button>
+
+<div *ngIf="!isTableView">
+  Rodzaje:
+  membranowa = 0,
+  nozycowa = 1,
+  mechaniczna = 2,
+  optyczna = 3,
+  hybrydowa = 4
+</div>
+<app-formularz *ngIf="!isTableView"
+        (submit)="onSubmit()">
+</app-formularz>
